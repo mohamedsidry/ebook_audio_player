@@ -14,16 +14,15 @@ class ImageSlider extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
+    return SizedBox(
       height: 200,
       child: Stack(children: <Widget>[
         Positioned(
-          left: -20,
+          left: -30,
           top: 0,
-          right: -20,
+          right: -30,
           bottom: 0,
-          child: Container(
-              padding: const EdgeInsets.all(0),
+          child: SizedBox(
               height: 200,
               child: PageView.builder(
                 controller: PageController(viewportFraction: 0.8),

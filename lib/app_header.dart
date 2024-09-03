@@ -1,4 +1,3 @@
-import 'package:ebook_audio_player/config/ui/app_colors.dart';
 import 'package:flutter/material.dart';
 
 class TextHeader extends StatelessWidget {
