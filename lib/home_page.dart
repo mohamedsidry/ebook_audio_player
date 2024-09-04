@@ -1,8 +1,9 @@
-import 'package:ebook_audio_player/app_header.dart';
-import 'package:ebook_audio_player/image_slider.dart';
 import 'package:flutter/material.dart';
+import 'package:ebook_audio_player/app_header.dart';
+import 'package:ebook_audio_player/components/popular_books.dart';
 import './config/ui/app_colors.dart';
 import './app_bar.dart';
+import 'package:ebook_audio_player/config/config.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -27,13 +28,14 @@ class _HomePage extends State<HomePage> {
                 iconColor: AppColors.iconColors['dark'] ?? Colors.black,
               ),
               TextHeader(
-                text: "Hello world !",
+                text: "Popular Books",
                 size: 32,
                 color: AppColors.maroon['std'] ?? Colors.black,
                 padding: const EdgeInsets.only(left: 16),
               ),
-              const SizedBox(width: double.infinity, height: 10),
-              const ImageSlider(),
+              const PopularBooksSlider(
+                imageLocation: SlideImageConfig.sourceOfImages,
+              ),
             ],
           ),
         ),
