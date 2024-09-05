@@ -1,3 +1,4 @@
+import 'package:ebook_audio_player/components/navigation_view.dart';
 import 'package:flutter/material.dart';
 import 'package:ebook_audio_player/app_header.dart';
 import 'package:ebook_audio_player/components/popular_books.dart';
@@ -36,6 +37,7 @@ class _HomePage extends State<HomePage> {
               const PopularBooksSlider(
                 imageLocation: SlideImageConfig.sourceOfImages,
               ),
+              const NavigationView(),
             ],
           ),
         ),
