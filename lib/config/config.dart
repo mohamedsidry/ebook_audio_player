@@ -1,7 +1,7 @@
 enum ImageLocations { local, json, api }
 
 class SlideImageConfig {
-  static const ImageLocations sourceOfImages = ImageLocations.local;
+  static const ImageLocations sourceOfImages = ImageLocations.json;
   static const String endPoint = 'https://jsonplaceholder.typicode.com/photos';
   static const String jsonLocation = 'json/popular_books.json';
   static const double height = 200;
@@ -16,4 +16,9 @@ class SlideImageConfig {
     'assets/img/5.png',
     'assets/img/0.png',
   ];
+}
+
+class BookListConfig {
+  static const int initialBooksCountInView = 5;
+  static const int loadMoreCount = 3;
 }

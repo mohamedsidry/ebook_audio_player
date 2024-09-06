@@ -2,7 +2,7 @@
     {
         "title": "To Kill a Mockingbird",
         "text": "A novel by Harper Lee published in 1960. It was immediately successful, winning the Pulitzer Prize, and has become a classic of modern American literature.",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg",
+        "img": "https://wallpapercave.com/wp/wp4138177.jpg",
         "audio": "to_kill_a_mockingbird.mp3",
         "rating": 4.8
     },
@@ -16,57 +16,127 @@
     {
         "title": "Pride and Prejudice",
         "text": "A romantic novel of manners written by Jane Austen in 1813. The novel follows the character development of Elizabeth Bennet, the dynamic protagonist of the book.",
-        "img": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg",
+        "img": "https://wallpapercave.com/wp/wp2069983.jpg",
         "audio": "pride_and_prejudice.mp3",
         "rating": 4.7
     },
     {
         "title": "The Great Gatsby",
         "text": "A 1925 novel by American writer F. Scott Fitzgerald. Set in the Jazz Age on Long Island, the novel depicts narrator Nick Carraway's interactions with mysterious millionaire Jay Gatsby.",
-        "img": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg",
+        "img": "https://wallpapercave.com/wp/wp5261310.jpg",
         "audio": "the_great_gatsby.mp3",
         "rating": 4.4
     },
     {
         "title": "Moby Dick",
         "text": "A novel by Herman Melville, published in 1851. The story follows Ishmael's maritime adventures and his quest for revenge against the white whale, Moby Dick.",
-        "img": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg",
+        "img": "https://wallpapercave.com/wp/HEt4yl8.jpg",
         "audio": "moby_dick.mp3",
         "rating": 4.2
     },
     {
         "title": "War and Peace",
         "text": "A novel by Leo Tolstoy, first published from 1865 to 1869. It is regarded as one of Tolstoy's finest works and as one of the greatest novels ever written.",
-        "img": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg",
+        "img": "https://wallpapercave.com/wp/wp4198392.jpg",
         "audio": "war_and_peace.mp3",
         "rating": 4.9
     },
     {
         "title": "The Catcher in the Rye",
         "text": "A novel by J.D. Salinger, partly published in serial form in 1945–1946 and as a novel in 1951. It is a story about adolescent alienation and loss.",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg",
+        "img": "https://store.jarirreader.com/images/162x222/44974.jpg",
         "audio": "the_catcher_in_the_rye.mp3",
         "rating": 4.3
     },
     {
         "title": "The Lord of the Rings",
         "text": "An epic high-fantasy novel written by English author and scholar J.R.R. Tolkien. The story began as a sequel to Tolkien's 1937 fantasy novel The Hobbit.",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/91ZspD2oHwL.jpg",
+        "img": "https://wallpapercave.com/wp/wp13454598.jpg",
         "audio": "the_lord_of_the_rings.mp3",
         "rating": 4.9
     },
     {
         "title": "The Odyssey",
         "text": "An ancient Greek epic poem attributed to Homer. It is one of the oldest works of literature still read by contemporary audiences.",
-        "img": "https://images-na.ssl-images-amazon.com/images/I/81tW3Ow5ZnL.jpg",
+        "img": "https://monsieurdidot.com/wp-content/uploads/2020/02/The-Odyssey.jpg",
         "audio": "the_odyssey.mp3",
         "rating": 4.5
     },
     {
         "title": "Crime and Punishment",
         "text": "A novel by the Russian author Fyodor Dostoevsky. It was first published in 1866. The novel is often cited as one of the supreme achievements in literature.",
-        "img": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg",
+        "img": "https://covers.shakespeareandcompany.com/97800999/9780099981909.jpg",
         "audio": "crime_and_punishment.mp3",
         "rating": 4.8
+    },
+    {
+        "title": "The Grapes of Wrath",
+        "text": "A novel by John Steinbeck, published in 1939. The novel centers around the Joads, a poor family of tenant farmers displaced from their Oklahoma farm.",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81-350pe-oL.jpg",
+        "audio": "the_grapes_of_wrath.mp3",
+        "rating": 4.6
+    },
+    {
+        "title": "Jane Eyre",
+        "text": "A novel by English writer Charlotte Brontë, published in 1847. It follows the experiences of Jane Eyre, her growth to adulthood, and her love for Mr. Rochester.",
+        "img": "https://m.media-amazon.com/images/I/71AeuDOjRRL._AC_UF1000,1000_QL80_.jpg",
+        "audio": "jane_eyre.mp3",
+        "rating": 4.7
+    },
+    {
+        "title": "The Hobbit",
+        "text": "A children's fantasy novel by J.R.R. Tolkien. It was published in 1937 and is a prequel to his famous work, The Lord of the Rings.",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
+        "audio": "the_hobbit.mp3",
+        "rating": 4.8
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "text": "A novel by Fyodor Dostoevsky, first published in 1880. It is a passionate philosophical novel that enters deeply into ethical debates of God, free will, and morality.",
+        "img": "https://images.penguinrandomhouse.com/cover/9780374528379",
+        "audio": "the_brothers_karamazov.mp3",
+        "rating": 4.9
+    },
+    {
+        "title": "The Iliad",
+        "text": "An ancient Greek epic poem attributed to Homer. The Iliad is set during the Trojan War, and it tells the story of the ten-year siege of the city of Troy.",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71Gf1ZHkArL.jpg",
+        "audio": "the_iliad.mp3",
+        "rating": 4.6
+    },
+    {
+        "title": "Brave New World",
+        "text": "A dystopian novel by English author Aldous Huxley, written in 1931 and published in 1932. Set in a futuristic World State, where citizens are environmentally engineered into an intelligence-based social hierarchy.",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81t2CVWEsUL.jpg",
+        "audio": "brave_new_world.mp3",
+        "rating": 4.4
+    },
+    {
+        "title": "Les Misérables",
+        "text": "A novel by Victor Hugo, first published in 1862, that tells the story of several characters, particularly the struggles of ex-convict Jean Valjean and his path to redemption.",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/81UYTExERPL.jpg",
+        "audio": "les_miserables.mp3",
+        "rating": 4.8
+    },
+    {
+        "title": "Wuthering Heights",
+        "text": "A novel by Emily Brontë, published in 1847 under her pseudonym Ellis Bell. It is her only novel and is now considered a classic of English literature.",
+        "img": "https://m.media-amazon.com/images/I/91mjqJ2RPCL._AC_UF1000,1000_QL80_.jpg",
+        "audio": "wuthering_heights.mp3",
+        "rating": 4.3
+    },
+    {
+        "title": "Anna Karenina",
+        "text": "A novel by the Russian author Leo Tolstoy, first published in 1877. It is regarded as one of Tolstoy's greatest works of literature.",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/91+5tTf0h8L.jpg",
+        "audio": "anna_karenina.mp3",
+        "rating": 4.8
+    },
+    {
+        "title": "Frankenstein",
+        "text": "A novel by English author Mary Shelley, first published in 1818. The story of Victor Frankenstein, a young scientist who creates a sapient creature in a scientific experiment.",
+        "img": "https://images-na.ssl-images-amazon.com/images/I/71G9rDlnnyL.jpg",
+        "audio": "frankenstein.mp3",
+        "rating": 4.5
     }
-] 
+]
